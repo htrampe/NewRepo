@@ -3,4 +3,5 @@ Von Alice! Erster Code!
 Alice hat weitergemacht!
 
 Und hier war dann Bob!
-Alice ändert was!
+
+Bob ändert was!
