@@ -4,3 +4,4 @@ So ein quatsch:
 
 if b == False:
 	print("HI!")
+	print("Doppel HI!")
