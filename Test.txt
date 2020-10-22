@@ -5,9 +5,8 @@ Alice hat weitergemacht!
 Und hier war dann Bob!
 
 Bob ändert was!
-<<<<<<< HEAD
+
 bob will aber auch!
-=======
 
 Alice war schneller!
->>>>>>> 37db038bcc3f98c7480238af5711067052726c24
+
